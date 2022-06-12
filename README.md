@@ -1,2 +1,2 @@
-# ᴡ- ʟᴇꜰᴛ ᴘᴀᴅᴅʟᴇ ᴜᴘ, ꜱ- ʟᴇꜰᴛ ᴘᴀᴅᴅʟᴇ ᴅᴏᴡɴ
-# ᴜᴘ ᴀʀʀᴏᴡ- ʀɪɢʜᴛ ᴘᴀᴅᴅʟᴇ ᴜᴘ, ᴅᴏᴡɴ ᴀʀʀᴏᴡ- ʀɪɢʜᴛ ᴘᴀᴅᴅʟᴇ ᴅᴏᴡɴ
+# ᴡ- left paddle up, ꜱ- left paddle down
+# ᴜᴘ ᴀʀʀᴏᴡ- right paddle uo, ᴅᴏᴡɴ ᴀʀʀᴏᴡ- right paddle down
